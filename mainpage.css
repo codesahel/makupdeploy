@@ -1,0 +1,20 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+#center1{
+    background-image: url(https://source.unsplash.com/1440x500/?makeup);
+    height: 500px;
+    width: 1349px;
+}
+h1{
+    color: black;
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+#hr{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;    
+}
